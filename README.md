@@ -9,3 +9,8 @@ There are three test problems: static bond-based peridynamics, dynamic nonlocal 
 * gcc 7.5.0 or newer
 * Install BLAS and LAPACK packages
 
+# Quick start
+## static bond-based peridynamics
+
+
+
