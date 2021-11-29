@@ -26,7 +26,6 @@ Example:
 
 ./PMB_2d.ex 20 3.5 0.0
 
-The output is the l^2 norm of the solution. 
 ## Nonlocal diffusion problems
 
 compile the run code with the following command:
@@ -46,5 +45,17 @@ Example:
 ./PMB_2d.ex 32 3.0
 
 
+# Additional information 
 
+If you find this code or method useful for your project, please cite
+
+@article{trask2019asymptotically,
+  title={An asymptotically compatible meshfree quadrature rule for nonlocal problems with applications to peridynamics},
+  author={Trask, Nathaniel and You, Huaiqian and Yu, Yue and Parks, Michael L},
+  journal={Computer Methods in Applied Mechanics and Engineering},
+  volume={343},
+  pages={151--165},
+  year={2019},
+  publisher={Elsevier}
+}
 
