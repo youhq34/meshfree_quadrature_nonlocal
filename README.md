@@ -12,5 +12,11 @@ There are three test problems: static bond-based peridynamics, dynamic nonlocal 
 # Quick start
 ## static bond-based peridynamics
 
+compile the code with the command 
+
+make PD
+
+
+
 
 
