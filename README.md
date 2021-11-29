@@ -15,7 +15,7 @@ There are three test problems: static bond-based peridynamics, dynamic nonlocal 
 compile the run code with the following command 
 
 1. make PD
-2. ./PMB_2d.ex <number of particles><ratio of delta/h><random perturbation coeffcient>
+2. ./PMB_2d.ex \<number of particles\>\<ratio of delta/h\>\<random perturbation coeffcient\>
 
 
 
