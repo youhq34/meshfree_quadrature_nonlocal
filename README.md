@@ -51,11 +51,11 @@ If you find this code or method useful for your project, please cite
 
 @article{trask2019asymptotically,<br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={An asymptotically compatible meshfree quadrature rule for nonlocal problems with applications to peridynamics},<br />
-  author={Trask, Nathaniel and You, Huaiqian and Yu, Yue and Parks, Michael L},<br />
-  journal={Computer Methods in Applied Mechanics and Engineering},<br />
-  volume={343},<br />
-  pages={151--165},<br />
-  year={2019},<br />
-  publisher={Elsevier}<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Trask, Nathaniel and You, Huaiqian and Yu, Yue and Parks, Michael L},<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={Computer Methods in Applied Mechanics and Engineering},<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volume={343},<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages={151--165},<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2019},<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;publisher={Elsevier}<br />
 }<br />
 
