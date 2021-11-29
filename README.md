@@ -45,7 +45,7 @@ Example:
 ./PMB_2d.ex 32 3.0
 
 
-# Additional information 
+# Citations
 
 If you find this code or method useful for your project, please cite
 
