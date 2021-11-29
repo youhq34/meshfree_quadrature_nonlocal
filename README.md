@@ -6,5 +6,6 @@ This repository contains the code for the paper
 There are three test problems: static bond-based peridynamics, dynamic nonlocal diffusion, and Kalthoff-Winkler experiment simulation.
 
 # Requirements
-* gcc $\geq$ 7.5.0
+* gcc 7.5.0 or newer
+* Install BLAS and LAPACK packages
 
