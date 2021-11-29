@@ -50,12 +50,12 @@ Example:
 If you find this code or method useful for your project, please cite
 
 @article{trask2019asymptotically,<br />
-  title={An asymptotically compatible meshfree quadrature rule for nonlocal problems with applications to peridynamics},
-  author={Trask, Nathaniel and You, Huaiqian and Yu, Yue and Parks, Michael L},
-  journal={Computer Methods in Applied Mechanics and Engineering},
-  volume={343},
-  pages={151--165},
-  year={2019},
-  publisher={Elsevier}
-}
+  title={An asymptotically compatible meshfree quadrature rule for nonlocal problems with applications to peridynamics},<br />
+  author={Trask, Nathaniel and You, Huaiqian and Yu, Yue and Parks, Michael L},<br />
+  journal={Computer Methods in Applied Mechanics and Engineering},<br />
+  volume={343},<br />
+  pages={151--165},<br />
+  year={2019},<br />
+  publisher={Elsevier}<br />
+}<br />
 
