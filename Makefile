@@ -6,7 +6,7 @@ PDDIR=./bond-based-pd
 NLDIFFDIR=./nonlocal_diffusion
 KWDIR=./Kalthoff-Winkler-test
 
-LAPACKFLAG=-llapack -llapacke -lrefblas
+LAPACKFLAG=-llapack 
 
 pd:
 	$(CPP) $(PDDIR)/PMB_2Dweight.cpp $(LAPACKFLAG) -o PMB_2d.ex 
