@@ -3,7 +3,7 @@ This repository contains the code for the paper
 
 * [An asymptotically compatible meshfree quadrature rule for nonlocal problems with applications to peridynamics](https://www.sciencedirect.com/science/article/pii/S004578251830402X)
 
-There are three test problems: static bond-based peridynamics, dynamic nonlocal diffusion, and Kalthoff-Winkler experiment. All the problems are in two-dimensional space.
+There are three test problems: static bond-based peridynamics, static nonlocal diffusion, and Kalthoff-Winkler experiment. All the problems are in two-dimensional space.
 
 # Requirements
 * gcc 7.5.0 or newer
@@ -24,14 +24,18 @@ compile the run code with the following command:
 
 Example:
 
-./PMB_2d.ex 20 3.5 0.0
+./PMB_2d.ex 20 3.5 
 
 ## Nonlocal diffusion problems
 
 compile the run code with the following command:
 
 1. make Nldiff
-2. ./nldiff.ex 
+2. ./nldiff.ex \<number of particles\>\<ratio of delta/h\>
+
+Example:
+
+./nldiff.ex 20 3.5 
 
 ## Kalthoff-Winkler experiment
 
@@ -42,7 +46,7 @@ compile the run code with the following command:
 
 Example:
 
-./PMB_2d.ex 32 3.0
+./KW.ex 32 3.0
 
 
 # Citations
