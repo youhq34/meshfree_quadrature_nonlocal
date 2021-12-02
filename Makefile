@@ -11,7 +11,7 @@ LAPACKFLAG=-llapack
 pd:
 	$(CPP) $(PDDIR)/PMB_2Dweight.cpp $(LAPACKFLAG) -o PMB_2d.ex 
 Nldiff:
-	$(CPP) $(NLDIFFDIR)/nonlocaldiff.cpp $(LAPACKFLAG) -o nldiff.ex
+	$(CPP) $(NLDIFFDIR)/nonlocaldiff_static.cpp $(LAPACKFLAG) -o nldiff.ex
 KW:
 	$(CPP) $(KWDIR)/KW_2Dweight_dynamic.cpp $(LAPACKFLAG) -o KW.ex
 clean:
