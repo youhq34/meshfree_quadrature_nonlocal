@@ -20,11 +20,11 @@ There are three test problems: static bond-based peridynamics, static nonlocal d
 compile the run code with the following command:
 
 1. make PD
-2. ./PMB_2d.ex \<number of particles\>\<ratio of delta/h\>
+2. ./PMB_2d.ex \<number of particles\>\<ratio of delta/h\>\<random perturbation coefficient\>
 
 Example:
 
-./PMB_2d.ex 20 3.5 
+./PMB_2d.ex 20 3.5 0.0
 
 ## Nonlocal diffusion problems
 
